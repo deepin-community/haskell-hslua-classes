@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+haskell-hslua-classes (2.1.0-2) unstable; urgency=medium
+
+  * Post-NEW source-only upload
+
+ -- Scott Talbert <swt@techie.net>  Sat, 06 Aug 2022 21:20:34 -0400
+
+haskell-hslua-classes (2.1.0-1) unstable; urgency=low
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Scott Talbert <swt@techie.net>  Fri, 05 Aug 2022 12:42:40 -0400
